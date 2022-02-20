@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyb_2001/Desktop/project3/p3.cpp
+iostream
+-
+fstream
+C:/Users/hyb_2001/Desktop/project3/fstream
+sstream
+C:/Users/hyb_2001/Desktop/project3/sstream
+iomanip
+C:/Users/hyb_2001/Desktop/project3/iomanip
+string
+C:/Users/hyb_2001/Desktop/project3/string
+cstdlib
+C:/Users/hyb_2001/Desktop/project3/cstdlib
+cassert
+C:/Users/hyb_2001/Desktop/project3/cassert
+simulation.h
+C:/Users/hyb_2001/Desktop/project3/simulation.h
+world_type.h
+C:/Users/hyb_2001/Desktop/project3/world_type.h
+
+C:/Users/hyb_2001/Desktop/project3/simulation.h
+world_type.h
+C:/Users/hyb_2001/Desktop/project3/world_type.h
+string
+C:/Users/hyb_2001/Desktop/project3/string
+
+C:/Users/hyb_2001/Desktop/project3/world_type.h
+string
+-
+

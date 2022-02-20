@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "d:\\mingw64\\bin\\..\\lib\\gcc\\mingw32\\6.3.0\\include",
+                "d:\\mingw64\\bin\\..\\lib\\gcc\\mingw32\\6.3.0\\..\\..\\..\\..\\include",
+                "d:\\mingw64\\bin\\..\\lib\\gcc\\mingw32\\6.3.0\\include-fixed",
+                "d:\\mingw64\\bin\\..\\lib\\gcc\\mingw32\\6.3.0\\..\\..\\..\\..\\mingw32\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

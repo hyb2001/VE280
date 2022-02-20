@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/2020FA/280/Project-2-Related-Files/p2.cpp
+iostream
+-
+cstdlib
+-
+recursive.h
+D:/2020FA/280/Project-2-Related-Files/recursive.h
+p2.h
+D:/2020FA/280/Project-2-Related-Files/p2.h
+
+D:/2020FA/280/Project-2-Related-Files/p2.h
+recursive.h
+D:/2020FA/280/Project-2-Related-Files/recursive.h
+
+D:/2020FA/280/Project-2-Related-Files/recursive.cpp
+iostream
+-
+cassert
+-
+recursive.h
+D:/2020FA/280/Project-2-Related-Files/recursive.h
+
+D:/2020FA/280/Project-2-Related-Files/recursive.h
+
+D:/2020FA/280/Project-2-Related-Files/simple_test.cpp
+iostream
+-
+recursive.h
+D:/2020FA/280/Project-2-Related-Files/recursive.h
+p2.h
+D:/2020FA/280/Project-2-Related-Files/p2.h
+
